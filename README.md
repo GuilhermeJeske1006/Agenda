@@ -20,9 +20,9 @@ O projeto consiste em uma pequena Agenda Web responsável por cadastrar contatos
 
 Para configurar o ambiente de desenvolvimento, siga as instruções abaixo:
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/AgendaWeb.git`
+1. Clone este repositório: `https://github.com/GuilhermeJeske1006/Agenda.git`
 2. Configure o servidor Tomcat.
-3. Importe o banco de dados MySQL disponível no diretório `database`.
+3. Configure o seu banco de dados.
 4. Execute o projeto e acesse via navegador.
 
 ## Como Contribuir
